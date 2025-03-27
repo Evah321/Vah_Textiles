@@ -1,0 +1,212 @@
+
+.welcome{
+	width:70%;
+	margin-left:15%;
+}
+
+
+
+body{
+	background-color:lightgrey;
+}
+nav ul{
+	display:flex;
+}
+
+li{
+	list-style:none;
+	padding-left:50px;
+}
+
+header{
+	background-color:#9aeced;
+	padding:10px;
+	font-size:25px;
+}
+
+a:hover{
+	color:black;
+	font-weight:bold;
+}
+a:active{
+	color:red;
+}
+
+.logo img {
+	height:100px;
+	border-radius:60px;
+}
+div{
+	display:flex;
+	
+}
+h2{
+	padding-left:22px;
+	font-size:50px;
+	padding-top:2px;
+	margin-top:5px;
+}
+
+
+h3{
+	padding-left:100px;
+	
+}
+
+footer{
+	text-align:center;
+}
+
+.shirts1 div{
+	width:35%;
+	float:left;
+	padding:10px;
+	border-radius:10px;
+	border-style:double;
+	text-align:center;
+	margin:10px;
+	
+}
+
+.shirts1{
+	width:100%;
+	
+}
+
+.shirts2 div{
+	width:35%;
+	float:left;
+	padding:10px;
+	border-radius:10px;
+	
+	text-align:center;
+	margin:10px;
+	border-length:10px;
+	
+}
+
+.shirts2{
+	width:100%;
+	
+	
+}
+
+
+.shirts3 div{
+	width:35%;
+	float:left;
+	padding:10px;
+	border-radius:10px;
+	border-style:double;
+	text-align:center;
+	margin:10px;
+	
+}
+
+.shirts3{
+	width:100%;
+	display:flex;
+	
+}
+
+.shirt-card {
+    display: flex;
+    flex-direction: column; /* Stack the elements vertically */
+    align-items: center; /* Center the content */
+	border-style:double;
+  }
+  
+  
+ .shirt-card img {
+    max-width: 100%; /* Ensure image is responsive */
+  }
+ .shirt-card button {
+    padding: 10px 20px; /* Adjust the padding to make the button a reasonable size */
+    font-size: 16px; /* Control the font size */
+	margin-top:5px;
+	border-radius:15px;
+  }
+  
+  
+.shirt-card button:hover{
+	font-weight:bold;
+	background-color:skyblue;
+}
+
+#Click {
+	border-style:solid;
+	border-width:2px;
+	border-radius:5px;
+	border-color:blue;
+	margin-left:160px;
+	margin-top:0px;
+	
+}
+#Click2 {
+	border-style:solid;
+	border-width:2px;
+	border-radius:5px;
+	border-color:blue;
+	margin-left:160px;
+	margin-top:0px;
+}
+#Click3 {
+	border-style:solid;
+	border-width:2px;
+	border-radius:5px;
+	border-color:blue;
+	margin-left:160px;
+	margin-top:0px;
+}
+#Click4 {
+	border-style:solid;
+	border-width:2px;
+	border-radius:5px;
+	border-color:blue;
+	margin-left:160px;
+	margin-top:0px;
+}
+#Click5 {
+	border-style:solid;
+	border-width:2px;
+	border-radius:5px;
+	border-color:blue;
+	margin-left:160px;
+	margin-top:0px;
+}
+#Click6 {
+	border-style:solid;
+	border-width:2px;
+	border-radius:5px;
+	border-color:blue;
+	margin-left:160px;
+	margin-top:0px;
+}
+#Click7 {
+	border-style:solid;
+	border-width:2px;
+	border-radius:5px;
+	border-color:blue;
+	margin-left:160px;
+	margin-top:0px;
+}
+#Click8 {
+	border-style:solid;
+	border-width:2px;
+	border-radius:5px;
+	border-color:blue;
+	margin-left:160px;
+	margin-top:0px;
+}
+#Click9 {
+	border-style:solid;
+	border-width:2px;
+	border-radius:5px;
+	border-color:blue;
+	margin-left:160px;
+	margin-top:0px;
+}
+
+
+
+
